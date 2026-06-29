@@ -27,10 +27,10 @@
 
 My latest writings on front-end engineering and architecture:
 <!-- BLOG-POST-LIST:START -->
-- [Rule、Skill、Agent 怎么分工 — 两个 Monorepo 的 Cursor 实践](https://leezen.xyz/2026/06/26/Rule-Skill-Agent-%E5%88%86%E5%B7%A5-%E4%B8%A4%E4%B8%AA-Monorepo-%E7%9A%84-Cursor-%E5%AE%9E%E8%B7%B5/)
-- [Nx 如何组织 Expo + NestJS 全栈 Monorepo](https://leezen.xyz/2026/06/22/Nx-%E7%BB%84%E7%BB%87-Expo-NestJS-%E5%85%A8%E6%A0%88-Monorepo/)
-- [离线/在线双轨 OpenAPI 同步 — hey-api 客户端实践](https://leezen.xyz/2026/06/24/%E7%A6%BB%E7%BA%BF-%E5%9C%A8%E7%BA%BF-%E5%8F%8C%E8%BD%A8-OpenAPI-%E5%90%8C%E6%AD%A5/)
-- [Standalone Next.js 多环境部署 — Docker + GitHub Actions](https://leezen.xyz/2026/06/28/Standalone-Next.js-%E5%A4%9A%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/)
+- [Rule、Skill、Agent 怎么分工 — 两个 Monorepo 的 Cursor 实践](https://leezen.xyz/2026/06/26/cursor-skills-agents-rules/)
+- [Nx 如何组织 Expo + NestJS 全栈 Monorepo](https://leezen.xyz/2026/06/22/tarotcards-monorepo-overview/)
+- [离线/在线双轨 OpenAPI 同步 — hey-api 客户端实践](https://leezen.xyz/2026/06/23/tarotcards-openapi-api-client/)
+- [Standalone Next.js 多环境部署 — Docker + GitHub Actions](https://leezen.xyz/2026/06/09/hyperstock-standalone-docker-deploy/)
 <!-- BLOG-POST-LIST:END -->
 
 > 📖 Visit my [Tech Blog](https://leezen.xyz) for more in-depth articles.
