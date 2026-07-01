@@ -38,7 +38,7 @@ My latest writings on front-end engineering and architecture:
 ### 📫 Reach Me
 
 - **Blog**: [https://leezen.xyz](https://leezen.xyz)
-- **E-mail**: leezen.li@outlook.com
+- **E-mail**: lileezen1@gmail.com
 - **GitHub**: [@Leezen-Li](https://github.com/Leezen-Li)
 
 ### 📊 GitHub Stats
